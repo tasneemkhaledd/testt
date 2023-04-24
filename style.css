@@ -1,0 +1,20 @@
+body {
+  background-color: purple;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+div {
+  height: auto;
+  background-color: #E8DED1;
+  width: 200px;
+  margin: 70px;
+  padding: 20px 20px 20px 20px;
+text-align: center;
+border-radius: 25px;
+
+}
+img {
+  border-radius: 50%;
+width: 200px;
+}
